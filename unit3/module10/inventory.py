@@ -1,4 +1,5 @@
-> git status
+# While I have already taken a java course and lists are similar, the lists in python make significantly more sense. The list in python are suprisingly easy to naviagate through to find specifc values in the list.
+# A time in business where I would use lists is when I am keeping track of inventory. I would use a list to keep track of the items in stock and the quantity of each item. This would allow me to easily see what items are low in stock and need to be reordered.
 # Exercise 1
 print("- - - Exercise 1: Build a List - - -")
 
