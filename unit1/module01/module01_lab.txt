@@ -1,0 +1,40 @@
+Exercise 1: C:\Users\ceste\Downloads\FidelityTraderPlus.msix
+            Root: C:\, Directiory Chain: Users, ceste, Downloads, Filename: FidelityTraderPlus Extension: .msix
+
+Exercise 3: 
+            CPU - Central processing unit, used to execute program instructions
+            RAM - Random access memory, holds whatever the computer is currently working on
+            Storage - Holds files permanently
+            File - named, ordered sequence of bytes stored on a disc
+            Directory - A container that organizes files and other directories in a hierarchy
+            Path - Full address of a file
+            Extension - The suffix after the last dot of the file name
+            Program - Instructions telling a computer how to preform a specific task
+            Interpreter - a program that reads source code.
+
+Exercise 4:
+            1. Taking averages of a data set
+            2. Combing data for spceific values
+            3. Repeating math calculations
+
+Exercise 5: home
+                |_alice
+                    |_projects
+                        |_q1_report
+                            |_data
+                                |_sales.csv
+                            scripts
+                                |_summary.py
+                        q2_report
+                            |_data
+                                |_sales.csv
+
+Exercise 6:
+a. RAM - RAM is short term temporary storage that is cleared when the cpmputer is powered off.
+b. Storage - Files are stored on your computers hard drive which saves data for long period of time.  If the file cannot be found it is likely no longer there.
+c. RAM - If you use all your temporary memory or RAM the computer may begin to run slower and have lower processing speeds and potentially crash.
+
+Self-Assessment:
+1. Before this module I would've guessed that the file just opens and is pulled from the cloud. Now I have a bit deeper understanding of how the specific file is pulled as te computer goes through numerous directories/ files before finally arriving at the desired file.
+2. Interpreter, I think going through the functions of what the interpreter really is and does would help solidify the concepts.
+3. At the minimum you would need to learn how to itterate through lists and loops.

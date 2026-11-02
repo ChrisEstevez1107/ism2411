@@ -1,0 +1,4 @@
+#NameError in line 1, tells that "primt" is not found.
+#When you call for hello.py from the unit1 file it is not found but when you
+#call from module02/hello.py it prints the  proper statment because the file hello.py
+#is inside the module02 folder which is inside of the unit1 folder.
